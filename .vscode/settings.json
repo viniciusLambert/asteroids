@@ -1,0 +1,8 @@
+{
+    "editor.suggest.showWords": false,
+    "python.analysis.completeFunctionParens": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "[python]": {
+        "editor.wordBasedSuggestions": "off"
+    }
+}
